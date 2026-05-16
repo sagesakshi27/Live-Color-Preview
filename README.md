@@ -10,10 +10,10 @@ A simple Live Color Preview Snippet built using **HTML+CSS**.
 
     Live-Color-Preview/
     │
-    ├── index.html       # Main HTML file
-    ├── style.css        # Styling for layout and centering
+    ├── index.html        # HTML file
+    ├── styles.css        # Styling
     ├── LICENSE
-    └── README.md        # Documentation
+    └── README.md         # Documentation
 
 ---
 
