@@ -51,7 +51,7 @@ A simple Live Color Preview Snippet built using **HTML+CSS**.
    ```
 
 3. Launch the project  
-   Simply open **index.html** in your browser.
+   Simply open `**index.html**` in your browser.
 
 ---
 
